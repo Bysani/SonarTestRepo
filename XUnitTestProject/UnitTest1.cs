@@ -11,6 +11,7 @@ namespace XUnitTestProject
             int a = 5;
             int b = 5;
             Assert.True(a + b > 0);
+
         }
     }
 }
